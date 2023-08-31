@@ -29,7 +29,7 @@ btnRoll.addEventListener('click', function () {
   const randomDice = Math.trunc(Math.random() * 6) + 1;
 
   // 3. change dice image to depending on the randomDice
-  diceEl.src = `dice-${randomDice}.png`;
+  diceEl.src = `img/dice-${randomDice}.png`;
 
   // 4. Display dice
   diceEl.classList.remove('hidden');
