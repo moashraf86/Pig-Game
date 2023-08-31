@@ -2,4 +2,4 @@
 
 <!-- Add game cover photo here -->
 
-![Pig Game](game-cover.png)
+![Pig Game](img/game-cover.png)
